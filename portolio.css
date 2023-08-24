@@ -1,0 +1,32 @@
+.cl2{
+    color: crimson;
+    display: inline;
+
+}
+li{
+    display: inline;
+  }
+html{
+    font-family: 'Roboto';
+  }
+  
+.cl1{
+    color:white;
+    display: inline;
+}
+.cl3 {
+    display: flex;
+    align-items: center;
+}
+table {
+    border-collapse: collapse; 
+    width: 100%;
+}
+th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: center;
+}
+.cl4:hover{
+    background-color:coral
+}
